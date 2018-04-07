@@ -1,0 +1,18 @@
+to add a new library file to the current project
+create a new folder: lib to keep all external jar files (for convenience)
+File>Project Structure>Libraries> +
+find the jar in the lib folder and select it, apply and close
+
+or File>Project Structure>Module>Dependencies> '+' >
+   >find the JAR in the correct project/lib folder
+   > select the JAR file, click apply
+
+
+
+*********
+in Eclipse
+do the same thing to add jar to the library
+
+also add TestNG plugin in the Eclipse
+Eclipse> Help> Eclipse Marketplace > search plugin "TestNG" > install it
+Restart Eclipse
